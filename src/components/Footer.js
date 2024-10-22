@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       <p>
-        <GetIcon icon="BsFillHeartFill" size={22} color="#da0037" /> <a href="https://github.com/Pankajbist">Pankaj Bist</a>
+        <GetIcon icon="BsFillHeartFill" size={22} color="#da0037" /> <a href="https://github.com/meghasingh1940">Megha Singh</a>
       </p>
     </footer>
   );
