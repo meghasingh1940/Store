@@ -14,9 +14,7 @@ on click categories it shows 4 properties thhese are
 
 
 
-### Empty Basket
-![](screenshots/basketempty.png)
-if you add any item
+
 ### Basket With Item
 ![](screenshots/basket.png)
 
